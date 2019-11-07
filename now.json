@@ -1,1 +1,5 @@
-{"name":"no-country-for-old-men"}
+{
+  "scripts": {
+    "build": "yarn build --output dist"
+  }
+}
