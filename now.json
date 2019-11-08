@@ -1,5 +1,0 @@
-{
-  "scripts": {
-    "build": "yarn build --output dist"
-  }
-}
