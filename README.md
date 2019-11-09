@@ -1,19 +1,9 @@
-# mdx-deck Example
+# No Country for Old Men
 
-This directory is a brief example of a [mdx-deck](https://github.com/jxnblk/mdx-deck) presentation that can be deployed to ZEIT Now with zero configuration.
+https://no-country-for-old-men.y--p--y.now.sh/
 
-## How we created this example
+with mdx-deck v2
 
-To get started with mdx-deck on Now, you can use the [npm init](https://docs.npmjs.com/cli/init) command to initialize the project:
+## Github Image Actions
 
-```shell
-$ npm init deck my-presentation
-```
-
-## Deploying this Example
-
-Once initialized, you can deploy the mdx-deck example with just a single command:
-
-```shell
-$ now
-```
+https://github.com/marketplace/actions/image-actions
